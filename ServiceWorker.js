@@ -1,9 +1,9 @@
-const cacheName = "EXA Labs-Exaverse-0.5.1";
+const cacheName = "EXA Labs-Exaverse-0.5.2";
 const contentToCache = [
-    "Build/Exaverse Full Version WebGL Build-V(0.5.1) 14-Feb-2026.loader.js",
-    "Build/Exaverse Full Version WebGL Build-V(0.5.1) 14-Feb-2026.framework.js",
-    "Build/Exaverse Full Version WebGL Build-V(0.5.1) 14-Feb-2026.data",
-    "Build/Exaverse Full Version WebGL Build-V(0.5.1) 14-Feb-2026.wasm",
+    "Build/Exaverse Full Version WebGL Build-V(0.5.2) 19-Feb-2026.loader.js",
+    "Build/Exaverse Full Version WebGL Build-V(0.5.2) 19-Feb-2026.framework.js",
+    "Build/Exaverse Full Version WebGL Build-V(0.5.2) 19-Feb-2026.data",
+    "Build/Exaverse Full Version WebGL Build-V(0.5.2) 19-Feb-2026.wasm",
     "TemplateData/style.css"
 
 ];
